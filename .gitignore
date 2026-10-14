@@ -1,0 +1,12 @@
+# 他人版权作品，禁止上传
+《不科学御兽》（精校版全本）.txt
+
+# TRAE 本地配置
+.trae/
+
+# 备份文件
+*.backup-*.docx
+
+# 系统文件
+Thumbs.db
+desktop.ini
